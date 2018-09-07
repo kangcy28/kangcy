@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536292306 source:c:\users\nt2018\desktop\c\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
